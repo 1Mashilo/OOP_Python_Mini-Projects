@@ -1,1 +1,1 @@
-# QuickPixLink
+## Object Oriented Programming Mini Projects
